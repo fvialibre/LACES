@@ -47,9 +47,6 @@ The primary data file is located at `data/unfolded_logs.jsonl`. Each entry is a 
 
 | Field | Type | Description |
 | --- | --- | --- |
-| `source` | String | Event of origin: `"khipu"` or `"hackaton"`. |
-| `timestamp` | String | ISO 8601 datetime of the record. |
-| `token_id` | String | Unique identifier for the annotator. |
 | `annotator_nationalities` | List | Self-reported nationalities of the annotator. |
 | `annotator_regions` | List | Self-reported regions. |
 | `annotator_understood_languages` | List | Language codes (e.g., `"en"`, `"es"`, `"pt"`). |
