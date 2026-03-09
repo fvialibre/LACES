@@ -26,16 +26,20 @@ Welcome to the official repository for **LACES**, a stereotype association datas
 
 The stereotypes in LACES cover a wide range of topics, categorized to facilitate detailed analysis.
 
-| Topic | Frequency (n) | In-Group (IG) % | Example (Nationality, Attribute) |
-| --- | --- | --- | --- |
-| **Cooking and Food** | 792 | 39.64% | (CHL, piscola) |
-| **Positive Traits** | 641 | 27.78% | (URY, hospitable) |
-| **Geography & Landmarks** | 609 | 26.21% | (MEX, archaeology) |
-| **Economy** | 591 | 8.88% | (PER, cheap tourism) |
-| **People & Everyday Life** | 571 | 13.08% | (CRI, ecological) |
-| **Tradition, Art, History** | 388 | 26.27% | (CHL, rodeo) |
-| **Negative Traits** | 338 | 23.66% | (COL, fallacious) |
-| **Sports & Recreation** | 223 | 50.65% | (COL, football fans) |
+| Topic | Frequency ($n$) | In-Group (IG) % | IG Association Sample | Out-Group (OG) % | OG Association Sample |
+| --- | --- | --- | --- | --- | --- |
+| **Cooking and Food** | 792 | 39.64% | (CHL, piscola) | 60.36% | (PRY, tortafrita) |
+| **Positive Traits** | 641 | 27.78% | (URY, hospitable) | 72.22% | (JPN, problem solvers) |
+| **Geography, Buildings, Landmarks** | 609 | 26.21% | (MEX, archaeology) | 73.79% | (BRA, Cristo Luz) |
+| **Economy** | 591 | 8.88% | (PER, cheap tourism) | 91.12% | (AUS, work & holiday) |
+| **People & Everyday Life** | 571 | 13.08% | (CRI, ecological) | 86.92% | (CHN, work culture) |
+| **Tradition, Art, History** | 388 | 26.27% | (CHL, rodeo) | 73.73% | (GRC, sirtaki) |
+| **Negative Traits** | 338 | 23.66% | (COL, fallacious) | 76.34% | (DEU, rigid minded) |
+| **Politics & Governance** | 239 | 18.57% | (ARG, best education) | 81.43% | (CUB, public health) |
+| **Sports & Recreation** | 223 | 50.65% | (COL, football fans) | 49.35% | (RUS, athletes) |
+| **Other** | 137 | 16.67% | (BRA, dental health) | 83.33% | (ISL, attractive people) |
+| **Public Figures & Pop Culture** | 130 | 63.64% | (URY, Gardel) | 36.36% | (CUB, Fidel Castro) |
+| **Neutral Traits** | 130 | 34.57% | (PAN, serious) | 65.43% | (IRL, quiet people) |
 
 ---
 
@@ -73,8 +77,6 @@ If you use this dataset in your research, please cite our paper:
       url={https://arxiv.org/abs/2510.24958}, 
 }
 ```
-
----
 
 ## ⚖️ License
 
