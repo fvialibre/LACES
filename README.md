@@ -1,6 +1,8 @@
-Paper link: [https://arxiv.org/abs/2510.24958](https://arxiv.org/abs/2510.24958)
-
 # LACES: Adaptive Data Collection for Latin-American Community-sourced Evaluation of Stereotypes
+
+### 🔗 Paper link: [https://arxiv.org/abs/2510.24958](https://arxiv.org/abs/2510.24958)
+
+---
 
 Welcome to the official repository for **LACES**, a stereotype association dataset specifically curated for 15 Latin American countries. This dataset was developed to bridge the geo-cultural gap in Natural Language Processing (NLP) resources, which often focus on U.S. and English-centric demographics.
 
@@ -18,7 +20,7 @@ Welcome to the official repository for **LACES**, a stereotype association datas
 
 * **Adaptive Sampling**: The methodology prioritizes in-group representation, validation coverage for sparse data, and real-time session recency.
 
-* **High Precision**: Despite having fewer data points than larger benchmarks, LACES contains a higher percentage of **unique concepts (29.74%)**.
+* **High Precision**: Despite having fewer data points than larger benchmarks, LACES contains a higher percentage of **unique concepts** compared with similar benchmarks.
 
 ---
 
