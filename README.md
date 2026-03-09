@@ -1,6 +1,22 @@
 # LACES: Adaptive Data Collection for Latin-American Community-sourced Evaluation of Stereotypes
 
-### 🔗 Paper link: [https://arxiv.org/abs/2510.24958](https://arxiv.org/abs/2510.24958)
+> Guido Ivetta, Pietro Palombini, Sofía Martinelli, Marcos J Gomez, M. María Echeveste, Sunipa Dev, Vinodkumar Prabhakaran, & Luciana Benotti. (2026)
+
+Pre-print 🔗 : [https://arxiv.org/abs/2510.24958](https://arxiv.org/abs/2510.24958)
+
+If you use or discuss our survey in your work, please use the following citation:
+
+```bibtex
+@misc{ivetta2026adaptivedatacollectionlatinamerican,
+      title={Adaptive Data Collection for Latin-American Community-sourced Evaluation of Stereotypes (LACES)}, 
+      author={Guido Ivetta and Pietro Palombini and Sofía Martinelli and Marcos J Gomez and M. María Echeveste and Sunipa Dev and Vinodkumar Prabhakaran and Luciana Benotti},
+      year={2026},
+      eprint={2510.24958},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY},
+      url={https://arxiv.org/abs/2510.24958}, 
+}
+```
 
 ---
 
@@ -63,22 +79,6 @@ The primary data file is located at `LACES_DATASET.csv`. Each entry is a JSON ob
 | `new_association` | Boolean | `true` if unfolded from an association; `false` if original. |
 
 ---
-
-## 📜 Citation
-
-If you use this dataset in your research, please cite our paper:
-
-```bibtex
-@misc{ivetta2026adaptivedatacollectionlatinamerican,
-      title={Adaptive Data Collection for Latin-American Community-sourced Evaluation of Stereotypes (LACES)}, 
-      author={Guido Ivetta and Pietro Palombini and Sofía Martinelli and Marcos J Gomez and M. María Echeveste and Sunipa Dev and Vinodkumar Prabhakaran and Luciana Benotti},
-      year={2026},
-      eprint={2510.24958},
-      archivePrefix={arXiv},
-      primaryClass={cs.CY},
-      url={https://arxiv.org/abs/2510.24958}, 
-}
-```
 
 ## ⚖️ License
 
