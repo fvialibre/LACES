@@ -1,6 +1,6 @@
 # LACES: Adaptive Data Collection for Latin-American Community-sourced Evaluation of Stereotypes
 
-> Guido Ivetta, Pietro Palombini, Sofía Martinelli, Marcos J Gomez, M. María Echeveste, Sunipa Dev, Vinodkumar Prabhakaran, & Luciana Benotti. (2026)
+> Guido Ivetta, Pietro Palombini, Sofía Martinelli, Marcos J Gomez, M. María Echeveste, Sunipa Dev, Vinodkumar Prabhakaran & Luciana Benotti. (2026)
 
 Pre-print 🔗 : [https://arxiv.org/abs/2510.24958](https://arxiv.org/abs/2510.24958)
 
