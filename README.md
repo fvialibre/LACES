@@ -45,7 +45,7 @@ The stereotypes in LACES cover a wide range of topics, categorized to facilitate
 
 ## 📂 Data Structure
 
-The primary data file is located at `data/unfolded_logs.jsonl`. Each entry is a JSON object representing an original datapoint or an unfolded association.
+The primary data file is located at `LACES_DATASET.csv`. Each entry is a JSON object representing an original datapoint or an unfolded association.
 
 ### Field Descriptions
 
